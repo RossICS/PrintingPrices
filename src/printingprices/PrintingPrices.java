@@ -34,7 +34,7 @@ public class PrintingPrices {
         {
             cost = copies * 0.27;
         }
-        else if  ((copies >=500) && (copies<=749))
+        else if  ((copies >=100) && (copies<=499))
         {
             cost = copies * 0.28;
         }
